@@ -1,7 +1,7 @@
 <h1 align='center'>Netflix Content Exploratory Data Analysis (EDA)</h1>
 
 <div align="center">
-  <img src="https://github.com/kovacikostanca/Data_Science_Portfolio/blob/main/Netflix Show EDA/Netflix_EDA.png" alt="Netflix EDA" width="400"/>
+  <img src="https://github.com/kovacikostanca/Data_Science_Portfolio/blob/main/Dashboards%20%26%20EDA%20Projects/Netflix%20Content%20EDA%20Analysis/images/Netflix_EDA.png" alt="Netflix EDA" width="400"/>
 </div>
 
 **From Basic Analysis to Professional Data Storytelling**
