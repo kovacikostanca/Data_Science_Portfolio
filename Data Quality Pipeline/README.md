@@ -135,7 +135,7 @@ Python 3.9 or higher recommended.
 ## Dataset Used
 
 **eBay Kleinanzeigen Used Cars**
-- Source: Kaggle — [used-cars-database](https://www.kaggle.com/datasets/orgesleka/used-cars-database)
+- Source: Kaggle - [used-cars-database](https://www.kaggle.com/datasets/orgesleka/used-cars-database)
 - Size: ~370,000 rows, 20 columns
 - Real scraped data from German eBay classifieds
 - Naturally messy: price overflows, impossible dates, missing fields, inconsistent formatting
@@ -158,8 +158,3 @@ Python 3.9 or higher recommended.
 | Useless column | LOW | nrOfPictures is 0 for all rows |
 
 ---
-
-
-## License
-
-MIT License — free to use and adapt with attribution.
