@@ -37,7 +37,7 @@ Issues found included prices up to EUR 2.1 billion, registration years between 1
 
 ---
 
-## Two Versions — Two Audiences
+## Two Versions - Two Audiences
 
 | | Pipeline (`main.py`) | Notebook (`data_quality_analysis.ipynb`) |
 |---|---|---|
@@ -68,16 +68,16 @@ data-quality-pipeline/
 └── README.md
 ```
 
-### Phase 1 — Load and Profile
+### Phase 1 | Load and Profile
 Loads the raw CSV with correct encoding, counts rows and columns, identifies duplicates, computes missing value rates per column, and calculates numeric ranges and categorical cardinality across the full dataset.
 
-### Phase 2 — Validation Rules Engine
+### Phase 2 | Validation Rules Engine
 Runs 14 business-specific validation rules across the dataset, classifying each issue as HIGH, MEDIUM, or LOW severity. Rules cover price integrity, date validity, engine power ranges, missing critical fields, structural anomalies, and listing type classification.
 
-### Phase 3 — Automated Cleaning
+### Phase 3 | Automated Cleaning
 Applies 10 sequential cleaning steps: removing duplicates, dropping structurally invalid rows, nulling out-of-range numeric values, filling missing categoricals, standardizing text formatting, and dropping uninformative columns. Outputs a clean CSV ready for analysis or dashboard ingestion.
 
-### Phase 4 — PDF Report Generator
+### Phase 4 | PDF Report Generator
 Auto-generates a branded 4-page PDF report including an executive summary with key metrics, a data health score (before and after), full profiling tables, validation findings by severity, cleaning action log, pipeline result summary, and 4 business recommendations.
 
 ---
@@ -108,7 +108,6 @@ cd data-quality-pipeline
 ```bash
 pip install -r requirements.txt
 ```
-
 
 ## Requirements
 
