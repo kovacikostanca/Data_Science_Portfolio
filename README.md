@@ -6,7 +6,7 @@ Welcome to my **Data Science Portfolio**!
   <img src="git_banner_portfolio.png" alt="Dashboard Preview" width="600">
 </p>
 
-I’m passionate about uncovering insights through data, building predictive models, and creating interactive tools that make information accessible and actionable.
+A collection of data projects covering **Machine Learning, Data Engineering, and Business Intelligence** built using **Python, SQL, and Tableau**. Demonstrates end-to-end capabilities ranging from automated data cleaning pipelines and predictive modeling to NLP research and interactive dashboards.
 
 ## Projects
 
