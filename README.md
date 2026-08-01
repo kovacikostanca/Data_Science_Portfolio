@@ -1,5 +1,5 @@
-# KOSTANCA KOVACI 
-## Data Science Portfolio
+<h1 align="center"> KOSTANCA KOVACI </h1> 
+<h2 align="center"> Data Science Portfolio </h2>
 
 Welcome to my **Data Science Portfolio**! 
 
