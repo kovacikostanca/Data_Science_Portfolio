@@ -3,7 +3,7 @@
 Welcome to my **Data Science Portfolio**! 
 
 <p align="center">
-  <img src="git_banner_portfolio.png" alt="Dashboard Preview" width="600">
+  <img src="git_banner_portfolio.png" alt="Dashboard Preview" width="100%">
 </p>
 
 A collection of data projects covering **Machine Learning, Data Engineering, and Business Intelligence** built using **Python, SQL, and Tableau**. Demonstrates end-to-end capabilities ranging from automated data cleaning pipelines and predictive modeling to NLP research and interactive dashboards.
