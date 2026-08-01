@@ -12,9 +12,6 @@ A collection of data projects covering **Machine Learning, Data Engineering, and
 
 “A collection of my data science projects, including EDA, machine learning and dashboards.”
 
-| Project | Tools | View Here |
-|---------|-------|-----------|
-|Fake Job Poset Detector | Python | link|
 
 1. [Fake_Job_Post_Detector](./Fake_Job_Post_Detector/README.md)  
    - NLP-based fraud detection system designed to automatically identify fraudulent job postings.  
