@@ -1,5 +1,4 @@
-<h1 align="center"> KOSTANCA KOVACI </h1> 
-<h2 align="center"> Data Science Portfolio </h2>
+<h1 align="center"> KOSTANCA KOVACI PORTFOLIO </h1> 
 
 Welcome to my **Data Science Portfolio**! 
 
