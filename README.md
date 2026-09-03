@@ -1,50 +1,37 @@
-<h1 align="center"> KOSTANCA KOVACI PORTFOLIO </h1> 
+![Data Science Portfolio Banner](git_banner_portfolio.png)
 
-Welcome to my **Data Science Portfolio**! 
+# Kostanca Kovaci — Data Science Portfolio
 
-<p align="center">
-  <img src="git_banner_portfolio.png" alt="Dashboard Preview" width="100%">
-</p>
+MSc Data Science graduate (Distinction, Middlesex University) with a Physics background, specializing in machine learning, BI, and NLP. This repository collects my applied projects — from deployed ML apps to fairness audits of large language models.
 
-A collection of data projects covering **Machine Learning, Data Engineering, and Business Intelligence** built using **Python, SQL, and Tableau**. Demonstrates end-to-end capabilities ranging from automated data cleaning pipelines and predictive modeling to NLP research and interactive dashboards.
-
-## Projects
-
-“A collection of my data science projects, including EDA, machine learning and dashboards.”
-
-
-1. [Fake_Job_Post_Detector](./Fake_Job_Post_Detector/README.md)  
-   - NLP-based fraud detection system designed to automatically identify fraudulent job postings.  
-   - Process and extract textual features using NLP.
-   - Train machine learning models for classification.
-   - Evaluate and optimize model performance.
-
-2. [House Price Prediction Using Linear and Polynomial Regression](./house-price-prediction/README.md)
-   - **Machine Learning pipeline** to predict housing prices based on various socioeconomic and structural property features
-   - Shows regression analysis + model evaluation + ML
-  
-3. [Student Performance Prediction using Random Forest](./Student_Performance_using_RandomForest/README.md)
-   -  Predictive Modeling - Classification on "Students Exam Performance"
-   -  Random Forest + Model Training + Accuracy Metrics for Evaluation
-
-4. [Netflix Show Exploratory Data Analysis](./Netflix-Show-EDA/README.md)
-   - EDA
-   - Analyzing trends in content by: country, genres, year, type (Movies or TV Shows)
-  
-
-(More projects coming soon)
+📫 [LinkedIn](https://linkedin.com/in/kostanca-kovaci) · [Portfolio site](https://kostancakovaci.com) · kovacikostanca@gmail.com
 
 ---
 
-## Tools & Skills  
-**Programming:** Python, R, SQL  
-**Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Plotly, Streamlit  
-**Techniques:** EDA, Feature Engineering, Regression, Classification, Clustering, Machibe Learning  
-**Soft Skills:** Analytical Thinking, Communication, Data Storytelling  
+## Featured Projects
+
+| Project | Description | Stack | Link |
+|---|---|---|---|
+| **Customer Churn Prediction** | Deployed ML app predicting customer churn (0.88 ROC-AUC, 89% recall); tuned decision threshold for business use | Python, scikit-learn, Streamlit | [View](./churn-prediction) |
+| **AI Bias Detection in LLMs** | Audited gendered/geographic bias in GPT & Claude against 1.6M+ reviews and crime data; MSc dissertation, Top 5 Poster Award | Python, SentenceTransformers, BERTopic | [View](./llm-bias-audit) |
+| **E-commerce Data Quality Pipeline** | 14-rule validation system raising a 371K-row dataset's health score from 22 to 91 | Python | [View](./data-quality-pipeline) |
+| **Retail Sales Optimization Analysis** | Three linked Tableau dashboards analyzing €84.5K in revenue, surfacing seasonality and margin insights | Tableau | [View](./retail-sales-optimization) |
+| **E-Commerce SQL Analysis** | Normalized PostgreSQL schema; CTEs and window functions for customer/sales analysis | PostgreSQL, SQL | [View](./ecommerce-sql-analysis) |
+
+## Additional Projects
+
+Smaller or earlier-stage work — NLP classification, EDA, dashboards, and predictive modeling — is organized in [`other-projects/`](./other-projects).
 
 ---
 
-## Contact  
-- **GitHub**: [kovacikostanca](https://github.com/kovacikostanca)
-- **LinkedIn**: [linkedin.com/in/kostancakovaci](https://linkedin.com/in/kostanca-kovaci)
-- **Portfolio Website**: [kovacikostanca](https://kostancakovaci.com)
+## Skills demonstrated across this portfolio
+
+- **Machine Learning:** classification, regression, feature engineering, threshold tuning, model evaluation
+- **NLP:** text classification, SentenceTransformers, topic modeling (BERTopic), fairness auditing
+- **Data Engineering:** ETL pipelines, data validation, relational database design
+- **BI & Visualization:** Tableau, Power BI (in progress), dashboarding
+- **Languages/Tools:** Python, SQL, Git, Streamlit, AWS
+
+---
+
+⭐ If you find any of this useful or want to discuss a project, feel free to reach out.
