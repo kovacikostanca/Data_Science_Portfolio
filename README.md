@@ -1,10 +1,13 @@
 ![Data Science Portfolio Banner](git_banner_portfolio.png)
 
-# Kostanca Kovaci — Data Science Portfolio
+# Kostanca Kovaci | Data Science Portfolio
 
-MSc Data Science graduate (Distinction, Middlesex University) with a Physics background, specializing in machine learning, BI, and NLP. This repository collects my applied projects — from deployed ML apps to fairness audits of large language models.
+MSc Data Science graduate (Distinction, Middlesex University) with a Physics background, specializing in machine learning, BI, and NLP. This repository collects my applied projects, from deployed ML apps to fairness audits of large language models.
 
-📫 [LinkedIn](https://linkedin.com/in/kostanca-kovaci) · [Portfolio site](https://kostancakovaci.com) · kovacikostanca@gmail.com
+📫 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kostanca-kovaci)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kovacikostanca)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kostancakovaci.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kovacikostanca@gmail.com) 
 
 ---
 
