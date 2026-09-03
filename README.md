@@ -23,7 +23,7 @@ MSc Data Science graduate (Distinction, Middlesex University) with a Physics bac
 
 ## Additional Projects
 
-Smaller or earlier-stage work — NLP classification, EDA, dashboards, and predictive modeling — is organized in [`other-projects/`](./other-projects).
+Smaller or earlier-stage work: NLP classification, EDA, dashboards, and predictive modeling is organized in [`other-projects/`](./other-projects).
 
 ---
 
